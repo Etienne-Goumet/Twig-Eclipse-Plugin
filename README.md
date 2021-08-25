@@ -29,3 +29,5 @@ It's inside the "Text Editors / Productivity Tools" category:
 
 [http://p2-dev.pdt-extensions.org/](http://p2-dev.pdt-extensions.org/)
 
+TEST
+
